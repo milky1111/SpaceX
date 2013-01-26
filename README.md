@@ -3,16 +3,18 @@ SpaceX
 
 SpaceX is a small arcade style space shooter. It was made following a Unity tutorial by the Walker Boys Studio.
 
-======
+-----
 
 The goal is to survive for 60 seconds and trying to achieve the highest score you can.
 Score is increased by destroying asteroids.
 
+-----
+
 CONTROLS:
-Arrow Keys ..... Movement
-Space Bar ...... Fire Laser
-E Key .......... Activate Shield
 (Can be changed during input selection when you boot the game.)
+Arrow keys are used for movement, Space Bar will fire your laser and 'E' will activate your shield.
+
+-----
 
 MECHANICS:
 Asteroids:
@@ -33,7 +35,7 @@ Tri-Cannon converts your single cannon laser into three cannons. The power-up is
 Shield:
 You are allowed one shield per run, default key to activate it is 'E'. The shield will stop you from losing lives when you are hit by asteroids or space junk. The shield has an infinite duration but will only shield you for three hits. Having your shield hit WILL NOT cause you to lose the Tri-Cannon power-up.
 
-=====
+-----
 
 Notes:
 SpaceX was made using Unity editor (http://unity3d.com/) the objects code is written in JavaScript using Unitys API.
@@ -45,12 +47,12 @@ If you are new to object orientated coding (or just interested in coding games u
 
 Please be gentle, this is my second completed game since beginning coding.
 
-=====
+-----
 
 Bugs:
 
 I never expected the publish this game because of this I did not correct all the bugs caused by using large resolutions. When asked what resolution to use in the boot menu please just stick to around 1024x768, it's a windowed game anyway and using a larger resolution will cause your view to extend past the field of movement and you will see objects you shouldn't.
 
-=====
+-----
 
 Thanks for looking at SpaceX and although it's a very simple game I hope it gives you a couple of minutes of fun. :]
