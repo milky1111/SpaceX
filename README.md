@@ -37,7 +37,7 @@ You are allowed one shield per run, default key to activate it is 'E'. The shiel
 
 -----
 
-Notes:
+NOTES:
 SpaceX was made using Unity editor (http://unity3d.com/) the objects code is written in JavaScript using Unitys API.
 
 I did not upload the raw assets of SpaceX, they would require Unity editor to view anyway. The game is fairly simple so I doubt there will be anybody really interested in seeing the code.
@@ -49,8 +49,7 @@ Please be gentle, this is my second completed game since beginning coding.
 
 -----
 
-Bugs:
-
+BUGS:
 I never expected the publish this game because of this I did not correct all the bugs caused by using large resolutions. When asked what resolution to use in the boot menu please just stick to around 1024x768, it's a windowed game anyway and using a larger resolution will cause your view to extend past the field of movement and you will see objects you shouldn't.
 
 -----
